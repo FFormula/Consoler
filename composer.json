@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fformula/sum": "^1.0",
+        "symfony/console": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Volosatov\\": "src"
+        }
+    }
+}
